@@ -1,0 +1,15 @@
+#example1
+palpatineAnnouncemnt="in order to ensure the security and continuing stability"
+palpatineAnnouncemnt2="the republic will re-organized into the efirist galictic empire"
+palpatineAnnouncemnt3="foor the safe and secue....society"
+#print this out as three lines using f-strings and secape charictor
+rellyLongSpeech=palpatineAnnouncemnt+"\n"+palpatineAnnouncemnt2+"\n"+palpatineAnnouncemnt3
+print(rellyLongSpeech)
+
+print()
+
+#example2
+andrews="That's five compartmants!"
+andrews2="she can stay afloat with the first 4 compartmants breached, but not five  NOT FIVE."
+fullAndrews=andrews+"\n"+andrews2
+print(fullAndrews)
